@@ -1,3 +1,7 @@
+# The only modifications I made are present in vizevaluator.py I only intended to use Lida evaluator for Vega-Lite chart specification
+## The remaining part of the README is a copy from the original Lida repository
+
+
 # LIDA: Automatic Generation of Visualizations and Infographics using Large Language Models
 
 [![PyPI version](https://badge.fury.io/py/lida.svg)](https://badge.fury.io/py/lida)
